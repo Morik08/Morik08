@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Morik08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript and Golang
-- 💞️ I’m looking to collaborate on whatever, just want to get better
-- 📫 How to reach me 
+- 👀 I am interested in design and want to work with UI and UX.
+- 🌱 I’m currently learning JavaScript
 
 <!---
 Morik08/Morik08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
