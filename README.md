@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Morik08
-- 👀 I am here to learn and get a better job.
+- 👀 I am here to learn to help me find a more interesting job.
 - 🌱 Currently JavaScript and Python
 
 <!---
